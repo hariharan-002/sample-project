@@ -1,0 +1,27 @@
+{
+    "questions": [
+      {
+        "id": 1,
+        "question": "Which of the Indian activists was popularly known as Lokhitwadi?",
+        "options": [
+          { "id": 1, "image": "https://img.jagranjosh.com/images/2022/July/2972022/Gopal_deshmukh.JPG", "name": "Gopal Hari Deshmukh" },
+          { "id": 2, "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/GKGokhale.jpg", "name": "Gopal Krishna Gokhale" },
+          { "id": 3, "image": "https://upload.wikimedia.org/wikipedia/en/5/52/Pherozeshah_Mehta_%28portrait%29.jpg", "name": "Pherozshah Mehta" },
+          { "id": 4, "image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Bal_Gangadhar_Tilak_%281856-1920%29.webp", "name": "Bal Gangadhar Tilak" }
+        ],
+        "answer": "Gopal Hari Deshmukh"
+      },
+      {
+        "id": 2,
+        "question": "Who is god of cricket?",
+        "options": [
+          { "id": 1, "image": "https://upload.wikimedia.org/wikipedia/commons/7/76/Mahendra_Singh_Dhoni_receiving_Padma_Bhushan.jpg", "name": "M.S Dhoni" },
+          { "id": 2, "image": "https://upload.wikimedia.org/wikipedia/commons/8/87/Kapil_Dev_at_Equation_sports_auction_%28cropped%29.jpg", "name": "Kapil Dev" },
+          { "id": 3, "image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Sachin-Tendulkar_%28cropped%29.jpg", "name": "Sachin Tendulkar" },
+          { "id": 4, "image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Sourav_Ganguly_closeup.jpg", "name": "Sourav Ganguly" }
+        ],
+        "answer": "Sachin Tendulkar"
+      }
+    ]
+  }
+  
